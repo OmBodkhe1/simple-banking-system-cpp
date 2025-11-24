@@ -7,10 +7,7 @@ A simple console-based **Banking System** created as my **First Year Computer En
 
 - Check balance  
 - Deposit money  
-- Withdraw money  
-- Switch-case  
-- Input validation  
-
+- Withdraw money
 ---
 
 ## 🧠 Concepts Used
